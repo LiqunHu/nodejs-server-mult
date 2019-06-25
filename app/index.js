@@ -64,4 +64,7 @@ app.use('/api/admin', routers.admin)
 //auth
 app.use('/api/auth', routers.auth)
 
+//auth
+app.use('/api/map', routers.map)
+
 module.exports = app
