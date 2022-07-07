@@ -28,7 +28,7 @@
     "ejs": "^2.6.1",
     "log4js": "^3.0.6",
     "log4js-logstash-tcp": "^1.0.8",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "mysql2": "^1.5.3",
     "node-rsa": "^1.0.2",
     "request": "^2.87.0",
